@@ -1,0 +1,23 @@
+body 
+{
+    background-color: ;
+}
+.inaltime
+{
+    height: 590px;
+}
+#stanga1
+{
+    padding-left: 50px;
+}
+.card img
+{
+    padding: 23px;
+}
+#radius
+{
+    border-radius: 100px;
+}
+.item{
+    width: 100%;
+}
