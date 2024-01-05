@@ -1,10 +1,22 @@
-body 
+
+    .inaltime
 {
-    background-color: ;
+    height: auto; 
+    background-color: gray; 
 }
-.inaltime
+#b1
 {
-    height: 590px;
+    margin-top: 10px;
+    height:40px;
+    width: auto;
+}
+#more
+{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: auto;
+    font-size: 26px;
 }
 #stanga1
 {
@@ -20,4 +32,28 @@ body
 }
 .item{
     width: 100%;
+}
+.title
+{
+    color
+}
+
+.b
+{
+background-color: ;
+}
+#hov:hover
+{
+    color: #FFD700;
+    background-color: #FFD700;
+}
+.option 
+{
+    width: 1360px;
+}
+.bottom
+{
+    height: 300px;
+    width: 100%;
+    background-color: #212529;
 }
