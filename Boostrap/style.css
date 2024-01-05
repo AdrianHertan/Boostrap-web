@@ -10,7 +10,7 @@
     height:40px;
     width: auto;
 }
-#more
+.more
 {
     display: flex;
     align-items: center;
@@ -37,20 +37,20 @@
 {
     color
 }
-
-.b
-{
-background-color: ;
-}
 #hov:hover
 {
     color: #FFD700;
     background-color: #FFD700;
 }
-.option 
-{
-    width: 1360px;
-}
+
+.newy
+ {
+    margin:0px;
+    height: 656px;
+    width: 640px;
+    border-bottom-left-radius:30px;
+    border-top-left-radius:30px ;
+ }
 .bottom
 {
     height: 300px;
