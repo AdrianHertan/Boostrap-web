@@ -1,0 +1,14 @@
+.bottom
+{
+    height: 300px;
+    width: 100%;
+    background-color: #212529;
+}
+.more
+{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: auto;
+    font-size: 28px;
+}
